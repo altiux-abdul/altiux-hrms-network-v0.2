@@ -2,7 +2,7 @@
   "name": "altiux-hrms-network",
   "author": "Abdul",
   "description": "This is POC of Altiux hrms and payroll",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "browserfs": "^1.2.0",
     "chai": "^3.5.0",
